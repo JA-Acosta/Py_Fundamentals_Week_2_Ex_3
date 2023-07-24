@@ -1,0 +1,6 @@
+This is the ninth program derived from 100 program suggested by ChatGPT for a 4 week python course. Since I already have programming expertise, I'll be combining the following 3 prompts into a single program. My main goal is to pay close attention to pythonic syntax, creating/updating git repositories, and developing good commenting habits. Upon completing this program, I'll push it to github and request feedback from my peers.
+
+The following 3 ChatGPT prompts were used:
+27. Write a function that calculates the area of a circle given its radius.
+29. Implement a function that checks if a number is even or odd.
+34. Create a function that calculates the factorial of a given number using recursion.
